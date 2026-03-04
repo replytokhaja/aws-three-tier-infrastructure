@@ -3,7 +3,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-1.6+-7B42BC?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws)
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A production-grade, highly available **three-tier AWS architecture** fully automated with Terraform modules. Deploys a complete VPC, Application Load Balancer, Auto Scaling EC2 group, and RDS MySQL database across two Availability Zones.
 
@@ -180,13 +179,11 @@ Key variables in `environments/dev/terraform.tfvars`:
 
 ---
 
-## 👤 Author
+## 👤 Mohammed Abdul Khaja
 
-**Mohammed Khaja** — AWS Solutions Architect Associate  
-[LinkedIn](https://linkedin.com/in/mohd-khaja) | [GitHub](https://github.com/YOUR_USERNAME)
+**Mohammed Abdul Khaja** — AWS Solutions Architect Associate  
+[LinkedIn](https://linkedin.com/in/mohd-khaja) | [GitHub](https://github.com/replytokhaja)
 
 ---
 
-## 📄 License
 
-MIT License — free to use and modify.
